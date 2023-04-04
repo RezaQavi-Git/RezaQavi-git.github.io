@@ -1,44 +1,33 @@
-Directory Structure
--------------------
-css\              - Stylesheets CSS files for the template.
-images\           - Images used in template.
-scripts\          - JavaScript used in the template.
-styles\           - SCSS source files for stylesheets CSS. Available in Purchased versions only.
-favicon.ico       - Favicon placeholder provided for the template.
-index.html        - Main HTML page to open the template in browser.
-*.html            - Additional HTML pages (if any).
-LICENSE-*.txt     - License file as per your downloaded variant.
+### Hi there 👋 I'm ReZa QaVi,
 
-How to Edit the template
-------------------------
+A data engineer passionate about Data Science :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, 🚀 DevOps, :new: Innovation and Automation :robot:
 
-1. Editing Content in template
+- ⚡ **Fun fact:** I believe in the _Chaos theory_: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
+- 🔭 I’m currently working on:
+- :bulb: I'm interested in all things data: **Big Data, Cloud, and Data Science, Development, Infrastructure**
+- 💬 Talk to me about Music, Movies, Memes, anything that interests you.
 
-To edit the content open the corresponding *.html files and open them
-in an editor such as VSCode or Notepad++.
-Search for the content you want to change and edit it to the text you want.
-Save the file and reopen HTML file in browser to see the changes.
+**If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.**
+<p align="center" >
+	<img width="50%" src="https://github-readme-stats.vercel.app/api?username=RezaQavi-Git&show_icons=truehide_border=true" />
+</p>
 
-2. Editing Styles of template
+<hr>
 
-The main style is present in css\main.css which you can edit.
-You must know how to edit CSS files to do this.
-If you have purchased any of the premium version then you will also get
-SCSS source files which generates all the styles of the template.
-You can use these SCSS files to make your changes and regenerate CSS.
+<p align="center">
+   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <br>
+   <i>You miss 100% of the shots you don't take.</i>
+   <br>
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/rezaqavi/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:rezaqavi1379@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/kalaghsardargom"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<br>
+</p>
 
-3. Changing Images
+---
 
-You can change images inside the images\ folder.
-Make sure to name the file same as the original file.
-If you wish to change the name of the image file then you must
-also make corresponding change in the HTML file which refer to that image.
+Credits: [ReZa QaVi](https://github.com/RezaQaVi-Git)
 
-How to use the template
------------------------
-Upload the contents to your webserver.
-index.html must be in the main (root) folder of your webserver.
-Do not change the name of the template folders or files unless you know
-what you are doing and are changing the names in HTML files too.
-For webhosting, you can go with https://templateflip.com/go/hosting for easy FTP file uploads.
-
+Last Edited on: 4/04/2023
