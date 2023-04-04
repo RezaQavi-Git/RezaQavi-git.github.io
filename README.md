@@ -2,7 +2,6 @@
 
 A data engineer passionate about Data Science :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, 🚀 DevOps, :new: Innovation and Automation :robot:
 
-- ⚡ **Fun fact:** I believe in the _Chaos theory_: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - 🔭 I’m currently working on:
 - :bulb: I'm interested in all things data: **Big Data, Cloud, and Data Science, Development, Infrastructure**
 - 💬 Talk to me about Music, Movies, Memes, anything that interests you.
